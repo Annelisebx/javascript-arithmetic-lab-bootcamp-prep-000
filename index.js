@@ -1,3 +1,4 @@
 function add(a, b) {
-  a += b;
+  a = 1300;
+  b = 49;
 }
