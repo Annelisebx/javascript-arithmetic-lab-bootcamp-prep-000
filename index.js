@@ -1,5 +1,5 @@
 function add(a, b) {
-  a = 1300;
-  b = 49;
+  a = 1500;
+  b = 43;
   return a + b;
 }
