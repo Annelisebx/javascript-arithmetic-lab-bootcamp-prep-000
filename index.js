@@ -1,1 +1,3 @@
-parseInt('2.2222', 10)
+function add(a,b) {
+  a += b;
+}
